@@ -1,0 +1,5 @@
+C:\CodeRepos\Win32ApiLib\bin\Debug\Win32ApiLib.dll
+C:\CodeRepos\Win32ApiLib\bin\Debug\Win32ApiLib.pdb
+C:\CodeRepos\Win32ApiLib\obj\Debug\Win32ApiLib.csproj.CoreCompileInputs.cache
+C:\CodeRepos\Win32ApiLib\obj\Debug\Win32ApiLib.dll
+C:\CodeRepos\Win32ApiLib\obj\Debug\Win32ApiLib.pdb
